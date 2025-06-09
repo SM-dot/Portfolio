@@ -2,8 +2,8 @@ export function Highlights() {
   const highlights = [
     {
       icon: "⚡",
-      title: "Python",
-      technologies: ["Django", "FastAPI", "NumPy", "Pandas"],
+      title: "Programming",
+      technologies: ["Python", "C++", "Java"],
     },
     {
       icon: "🧩",
@@ -13,7 +13,12 @@ export function Highlights() {
     {
       icon: "💡",
       title: "Innovation",
-      technologies: ["Research", "Prototyping", "Creative Thinking", "Future Tech"],
+      technologies: ["Research", "LLMs", "Creative Thinking", "Impact"],
+    },
+     {
+      icon: "🤖",
+      title: "AI/ ML/ Generative AI",
+      technologies: ["HuggingFace", "RAG", "LLMs", "GANs", "Research"],
     },
   ]
 
