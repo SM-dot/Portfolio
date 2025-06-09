@@ -17,7 +17,7 @@ export function Footer() {
             Get In Touch
           </Link>
           <a
-            href="https://github.com"
+            href="https://github.com/SM-dot"
             className="px-6 py-3 border border-white/30 rounded-full hover:border-white hover:bg-white/5 transition-all duration-300"
             target="_blank"
             rel="noopener noreferrer"
@@ -25,7 +25,7 @@ export function Footer() {
             GitHub
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/syonaa-mehra-aa9819215/"
             className="px-6 py-3 border border-white/30 rounded-full hover:border-white hover:bg-white/5 transition-all duration-300"
             target="_blank"
             rel="noopener noreferrer"
