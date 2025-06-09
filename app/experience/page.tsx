@@ -20,24 +20,33 @@ export default function Experience() {
 
   const workExperience = [
     {
-      title: "Senior Python Developer",
-      company: "Tech Solutions Inc.",
-      period: "2022 - Present",
-      description:
-        "Led development of 7 automated finance workflows, reducing processing time by 85%. Implemented FSM-based vehicle control systems using Python and C.",
-      technologies: ["Python", "C", "FastAPI", "PostgreSQL", "Docker"],
-      impact: "85% efficiency increase",
+      title: "Reasearch Engineer - LLMs",
+      company: "Florida International University",
+      period: "2024 - Present",
+      technologies: ["Python", "LLMs", "RAG", "HuggingFace", "Vercel""],
+      impact: "Multilingual LLMs",
       icon: "🚀",
     },
     {
-      title: "AI Engineer",
-      company: "Innovation Labs",
-      period: "2020 - 2022",
-      description:
-        "Developed machine learning models for predictive analytics and natural language processing applications. Built end-to-end ML pipelines.",
-      technologies: ["Python", "TensorFlow", "PyTorch", "Scikit-learn", "AWS"],
-      impact: "3 ML models deployed",
-      icon: "🤖",
+      title: "Summer Intern - Generative AI",
+      company: "PricewaterhouseCoopers (PwC)",
+      period: "June 2023 - August 2023",
+      technologies: ["Python", "LLMs", "GenAI - Business Integration", "Pitch Decks", "GenAI Lab", "Leadership", "Management", "Data Analysis", "Business"],
+
+    },
+    {
+      title: "Teaching Assistant",
+      company: "University of California, Irvine",
+      period: "2022 - 2024",
+      technologies: ["Data Structures", "Algortihms", "Mentorship", "Leadership", "Python", "C++", "Java"],
+
+    },
+    {
+      title: "Summer Intern",
+      company: "Ernst & Young (EY)",
+      period: "June 2021 - August 2021",
+      technologies: ["Automation", "Finance"],
+
     },
   ]
 

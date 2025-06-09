@@ -3,11 +3,11 @@ export function Hero() {
     <section className="pt-32 pb-20 px-6">
       <div className="container mx-auto text-center">
         <h1 className="text-6xl md:text-8xl font-bold mb-6 text-white">Syonaa Mehra</h1>
-        <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">🌐 Where code meets curiosity</p>
+        <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">🌐 Where Code Meets Curiosity</p>
 
         <div className="max-w-4xl mx-auto space-y-6 text-left">
           <p className="text-lg text-gray-300 leading-relaxed">
-            I'm Syona Mehra, a Financial Engineering Master's student at NYU who bridges quantitative rigor with
+            A Financial Engineering Master's student at NYU who bridges quantitative rigor with
             cutting-edge AI to tackle complex, real-world challenges.
           </p>
 
